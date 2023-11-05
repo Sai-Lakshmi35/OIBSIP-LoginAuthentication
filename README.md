@@ -19,3 +19,4 @@
   -Registration page
   -Login Page
   - Manager Homepage after authenticate userlogin
+6.For this project database name is lms
